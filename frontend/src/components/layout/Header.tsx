@@ -8,7 +8,7 @@ export default function Header() {
     <AppBar position="static">
       <Toolbar>
         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          Asset Maintenance
+          Assistente de Manutenção de Ativos
         </Typography>
         {user && (
           <Button color="inherit" onClick={logout}>

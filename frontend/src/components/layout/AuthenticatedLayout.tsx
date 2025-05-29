@@ -71,7 +71,7 @@ export default function AuthenticatedLayout() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap component="div" sx={{ flexGrow: 1 }}>
-            Asset Maintenance
+            Assistente de Manutenção de Ativos
           </Typography>
           <Typography>Olá, {user?.username}!</Typography>
         </Toolbar>
