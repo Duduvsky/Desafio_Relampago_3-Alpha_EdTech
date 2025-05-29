@@ -149,6 +149,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](./LICENSE) p
 - **Nome:** Matheus Eduardo Pires de Azevedo
 - **Email:** ´tymakay28@gmail.com
 - **LinkedIn:** [linkedin.com/in/matheus-de-azevedo-ads](https://www.linkedin.com/in/matheus-de-azevedo-ads/)
+- **GitHub:** [github.com/Duduvsky/Desafio_Relampago_3-Alpha_EdTech](https://github.com/Duduvsky/Desafio_Relampago_3-Alpha_EdTech)
 
 ---
 
