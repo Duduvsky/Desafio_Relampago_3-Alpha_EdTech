@@ -1,6 +1,6 @@
 
 # Assistente de Manutenção de Ativos - Desafio Relâmpago 3
-![Badge](Badge)
+![Banner](./frontend/src/assets/banner_desafio_relampago.PNG)
 
 Um sistema para gerenciamento de ativos e manutenções, desenvolvido com **TypeScript**, **Express.js** (backend), **React** (frontend) e **PostgreSQL**.
 
@@ -147,8 +147,8 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](./LICENSE) p
 ## ✉️ Contato
 
 - **Nome:** Matheus Eduardo Pires de Azevedo
-- **Email:** seuemail@exemplo.com
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **Email:** ´tymakay28@gmail.com
+- **LinkedIn:** [linkedin.com/in/matheus-de-azevedo-ads](https://www.linkedin.com/in/matheus-de-azevedo-ads/)
 
 ---
 

@@ -10,7 +10,7 @@ import {
 import {
   Menu as MenuIcon,
   Dashboard as DashboardIcon,
-  Settings as SettingsIcon,
+  // Settings as SettingsIcon,
   ListAlt as AssetsIcon,
   CalendarToday as MaintenanceIcon,
   Logout as LogoutIcon,
@@ -117,25 +117,25 @@ export default function AuthenticatedLayout() {
               <ListItemText primary="Manutenções" />
             </ListItemButton>
           </ListItem>
+          <ListItem disablePadding>
+            <ListItemButton component={Link} to="/maintenance-schedules">
+              <ListItemIcon>
+                <ScheduleIcon />
+              </ListItemIcon>
+              <ListItemText primary="Agendamentos" />
+            </ListItemButton>
+          </ListItem>
         </List>
-        <ListItem disablePadding>
-          <ListItemButton component={Link} to="/maintenance-schedules">
-            <ListItemIcon>
-              <ScheduleIcon />
-            </ListItemIcon>
-            <ListItemText primary="Agendamentos" />
-          </ListItemButton>
-        </ListItem>
         <Divider />
         <List>
-          <ListItem disablePadding>
+          {/* <ListItem disablePadding>
             <ListItemButton component={Link} to="/settings">
               <ListItemIcon>
                 <SettingsIcon />
               </ListItemIcon>
               <ListItemText primary="Configurações" />
             </ListItemButton>
-          </ListItem>
+          </ListItem> */}
           <ListItem disablePadding>
             <ListItemButton onClick={logout}>
               <ListItemIcon>
