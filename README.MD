@@ -147,8 +147,8 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](./LICENSE) p
 ## ✉️ Contato
 
 - **Nome:** Matheus Eduardo Pires de Azevedo
-- **Email:** seuemail@exemplo.com
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **Email:** ´tymakay28@gmail.com
+- **LinkedIn:** [linkedin.com/in/matheus-de-azevedo-ads](https://www.linkedin.com/in/matheus-de-azevedo-ads/)
 
 ---
 
